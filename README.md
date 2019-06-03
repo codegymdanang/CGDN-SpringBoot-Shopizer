@@ -30,6 +30,10 @@ If this is your first time using Github, review http://help.github.com to learn 
 
 You can also download the zip file containing the code from https://github.com/shopizer-ecommerce/shopizer 
 
+Configure database
+--------------------
+http://shopizer-ecommerce.github.io/shopizer/#
+
 To build the application:
 -------------------	
 From the command line with Maven installed:
